@@ -4,16 +4,16 @@ const OFFER = Object.freeze({
   essential: {
     launchPrice: 8.67,
     standardPrice: 15,
-    checkoutUrl: "",
-    standardCheckoutUrl: "",
+    checkoutUrl: "https://pay.hotmart.com/M107457113D?checkoutMode=10&bid=1788499033657",
+    standardCheckoutUrl: "https://pay.hotmart.com/M107457113D?checkoutMode=10&bid=1788499033657",
     contentId: "airfryer-essential",
     contentName: "200 Recetas para Freidora de Aire"
   },
   premium: {
     launchPrice: 14.77,
     standardPrice: 25,
-    checkoutUrl: "",
-    standardCheckoutUrl: "",
+    checkoutUrl: "https://pay.hotmart.com/X107457358H?checkoutMode=10&bid=1788499107248",
+    standardCheckoutUrl: "https://pay.hotmart.com/X107457358H?checkoutMode=10&bid=1788499107248",
     contentId: "airfryer-premium",
     contentName: "Pack Premium Freidora de Aire"
   },
